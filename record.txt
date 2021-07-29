@@ -1,0 +1,19 @@
+tds value :                  200	,Quality of Water : Excellent
+tds value :                  120	,Quality of Water : Excellent
+tds value :                  800	,Quality of Water : Fair
+tds value :                  500	,Quality of Water : Good
+tds value :                    0	,Quality of Water : Excellent
+tds value :                    0	,Quality of Water : Excellent
+tds value :                    0	,Quality of Water : Excellent
+tds value :                    0	,Quality of Water : Excellent 
+tds value :                    0	,Quality of Water : Excellent 
+tds value :                    0	,Quality of Water : Excellent
+tds value :                18000	,Quality of Water : Very Bad
+tds value :                    0	,Quality of Water : Excellent
+tds value :                    0	,Quality of Water : Excellent
+tds value :                    0	,Quality of Water : Excellent
+tds value :                    0	,Quality of Water : Excellent
+tds value :               100000	,Quality of Water : Very Bad
+tds value :                66000	,Quality of Water : Very Bad
+tds value :                 1000	,Quality of Water : Poor
+tds value :                    0	,Quality of Water : Excellent
